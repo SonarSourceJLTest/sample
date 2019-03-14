@@ -7,6 +7,6 @@ public class Sample1 {
 	}
 	
 	private String myMethod() {
-		return "hello";
+		return "hello2";
 	}
 }

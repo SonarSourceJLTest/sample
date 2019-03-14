@@ -1,0 +1,6 @@
+projectKey=com.sonarsource.views.samples:sample1
+serverUrl=http://localhost:9000
+serverVersion=7.7-SNAPSHOT
+dashboardUrl=http://localhost:9000/dashboard?id=com.sonarsource.views.samples%3Asample1
+ceTaskId=AWl9KYk35h2he-Fq_sxn
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWl9KYk35h2he-Fq_sxn
