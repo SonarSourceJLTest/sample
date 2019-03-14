@@ -1,0 +1,6 @@
+projectKey=projectKey4
+serverUrl=http://127.0.0.1:8888
+serverVersion=7.7-SNAPSHOT
+dashboardUrl=http://127.0.0.1:8888/dashboard?id=projectKey4
+ceTaskId=AWlX7kJ5LN0iIf5j_heR
+ceTaskUrl=http://127.0.0.1:8888/api/ce/task?id=AWlX7kJ5LN0iIf5j_heR
