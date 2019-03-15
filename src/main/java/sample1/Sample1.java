@@ -8,6 +8,7 @@ public class Sample1 {
 	
 	private String myMethod() {
 		// TODO
+		// TODO 2
 		return "hello2";
 	}
 }
