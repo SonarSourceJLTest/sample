@@ -7,6 +7,9 @@ public class Sample1 {
 	}
 	
 	private String myMethod() {
-		return "hello";
+		System.out.println("ahoh");
+		// TODO
+		// TODO 2
+		return "hello2";
 	}
 }
